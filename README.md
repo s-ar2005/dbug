@@ -1,3 +1,7 @@
+# DISCLAIMER
+THIS PROJECT AND THIS PROFILE HAS BEEN DEPRECATED AND WILL NO LONGER RECIEVE MAINTAINING.
+Sorry everyone :(
+
 # dbug
 A simple, yet powerful Batch File debugger
 
